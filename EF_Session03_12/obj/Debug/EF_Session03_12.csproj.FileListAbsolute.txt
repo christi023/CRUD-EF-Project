@@ -1,0 +1,33 @@
+c:\users\amir\documents\visual studio 2013\Projects\EF_Session03_12\EF_Session03_12\bin\Debug\EF_Session03_12.exe.config
+c:\users\amir\documents\visual studio 2013\Projects\EF_Session03_12\EF_Session03_12\bin\Debug\EF_Session03_12.exe
+c:\users\amir\documents\visual studio 2013\Projects\EF_Session03_12\EF_Session03_12\bin\Debug\EF_Session03_12.pdb
+c:\users\amir\documents\visual studio 2013\Projects\EF_Session03_12\EF_Session03_12\bin\Debug\EntityFramework.dll
+c:\users\amir\documents\visual studio 2013\Projects\EF_Session03_12\EF_Session03_12\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\amir\documents\visual studio 2013\Projects\EF_Session03_12\EF_Session03_12\bin\Debug\Models.dll
+c:\users\amir\documents\visual studio 2013\Projects\EF_Session03_12\EF_Session03_12\bin\Debug\Models.pdb
+c:\users\amir\documents\visual studio 2013\Projects\EF_Session03_12\EF_Session03_12\bin\Debug\EntityFramework.xml
+c:\users\amir\documents\visual studio 2013\Projects\EF_Session03_12\EF_Session03_12\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\amir\documents\visual studio 2013\Projects\EF_Session03_12\EF_Session03_12\obj\Debug\EF_Session03_12.csprojResolveAssemblyReference.cache
+c:\users\amir\documents\visual studio 2013\Projects\EF_Session03_12\EF_Session03_12\obj\Debug\EF_Session03_12.frmMain.resources
+c:\users\amir\documents\visual studio 2013\Projects\EF_Session03_12\EF_Session03_12\obj\Debug\EF_Session03_12.Properties.Resources.resources
+c:\users\amir\documents\visual studio 2013\Projects\EF_Session03_12\EF_Session03_12\obj\Debug\EF_Session03_12.csproj.GenerateResource.Cache
+c:\users\amir\documents\visual studio 2013\Projects\EF_Session03_12\EF_Session03_12\obj\Debug\EF_Session03_12.exe
+c:\users\amir\documents\visual studio 2013\Projects\EF_Session03_12\EF_Session03_12\obj\Debug\EF_Session03_12.pdb
+C:\Users\shahrooz\Desktop\ww\EF_Session03_12\bin\Debug\EF_Session03_12.exe.config
+C:\Users\shahrooz\Desktop\ww\EF_Session03_12\bin\Debug\EF_Session03_12.exe
+C:\Users\shahrooz\Desktop\ww\EF_Session03_12\bin\Debug\EF_Session03_12.pdb
+C:\Users\shahrooz\Desktop\ww\EF_Session03_12\bin\Debug\EntityFramework.dll
+C:\Users\shahrooz\Desktop\ww\EF_Session03_12\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shahrooz\Desktop\ww\EF_Session03_12\bin\Debug\Models.dll
+C:\Users\shahrooz\Desktop\ww\EF_Session03_12\bin\Debug\Models.pdb
+C:\Users\shahrooz\Desktop\ww\EF_Session03_12\bin\Debug\Models.dll.config
+C:\Users\shahrooz\Desktop\ww\EF_Session03_12\bin\Debug\EntityFramework.xml
+C:\Users\shahrooz\Desktop\ww\EF_Session03_12\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shahrooz\Desktop\ww\EF_Session03_12\obj\Debug\EF_Session03_12.csprojAssemblyReference.cache
+C:\Users\shahrooz\Desktop\ww\EF_Session03_12\obj\Debug\EF_Session03_12.frmMain.resources
+C:\Users\shahrooz\Desktop\ww\EF_Session03_12\obj\Debug\EF_Session03_12.Properties.Resources.resources
+C:\Users\shahrooz\Desktop\ww\EF_Session03_12\obj\Debug\EF_Session03_12.csproj.GenerateResource.cache
+C:\Users\shahrooz\Desktop\ww\EF_Session03_12\obj\Debug\EF_Session03_12.csproj.CoreCompileInputs.cache
+C:\Users\shahrooz\Desktop\ww\EF_Session03_12\obj\Debug\EF_Session03_12.csproj.CopyComplete
+C:\Users\shahrooz\Desktop\ww\EF_Session03_12\obj\Debug\EF_Session03_12.exe
+C:\Users\shahrooz\Desktop\ww\EF_Session03_12\obj\Debug\EF_Session03_12.pdb

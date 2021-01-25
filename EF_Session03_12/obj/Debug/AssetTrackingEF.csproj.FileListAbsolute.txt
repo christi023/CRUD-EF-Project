@@ -1,0 +1,162 @@
+C:\Users\shahrooz\Desktop\ww\EF_Session03_12\bin\Debug\EF_Session03_12.exe.config
+C:\Users\shahrooz\Desktop\ww\EF_Session03_12\bin\Debug\EF_Session03_12.exe
+C:\Users\shahrooz\Desktop\ww\EF_Session03_12\bin\Debug\EF_Session03_12.pdb
+C:\Users\shahrooz\Desktop\ww\EF_Session03_12\bin\Debug\EntityFramework.dll
+C:\Users\shahrooz\Desktop\ww\EF_Session03_12\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shahrooz\Desktop\ww\EF_Session03_12\bin\Debug\Models.dll
+C:\Users\shahrooz\Desktop\ww\EF_Session03_12\bin\Debug\Models.pdb
+C:\Users\shahrooz\Desktop\ww\EF_Session03_12\bin\Debug\Models.dll.config
+C:\Users\shahrooz\Desktop\ww\EF_Session03_12\bin\Debug\EntityFramework.xml
+C:\Users\shahrooz\Desktop\ww\EF_Session03_12\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shahrooz\Desktop\ww\EF_Session03_12\obj\Debug\AssetTrackingEF.csprojAssemblyReference.cache
+C:\Users\shahrooz\Desktop\ww\EF_Session03_12\obj\Debug\Asset.frmMain.resources
+C:\Users\shahrooz\Desktop\ww\EF_Session03_12\obj\Debug\EF_Session03_12.Properties.Resources.resources
+C:\Users\shahrooz\Desktop\ww\EF_Session03_12\obj\Debug\AssetTrackingEF.csproj.GenerateResource.cache
+C:\Users\shahrooz\Desktop\ww\EF_Session03_12\obj\Debug\AssetTrackingEF.csproj.CoreCompileInputs.cache
+C:\Users\shahrooz\Desktop\ww\EF_Session03_12\obj\Debug\AssetTrackingEF.csproj.CopyComplete
+C:\Users\shahrooz\Desktop\ww\EF_Session03_12\obj\Debug\EF_Session03_12.exe
+C:\Users\shahrooz\Desktop\ww\EF_Session03_12\obj\Debug\EF_Session03_12.pdb
+C:\Users\shahrooz\Desktop\ww - Copy\EF_Session03_12\bin\Debug\EF_Session03_12.exe.config
+C:\Users\shahrooz\Desktop\ww - Copy\EF_Session03_12\bin\Debug\EF_Session03_12.exe
+C:\Users\shahrooz\Desktop\ww - Copy\EF_Session03_12\bin\Debug\EF_Session03_12.pdb
+C:\Users\shahrooz\Desktop\ww - Copy\EF_Session03_12\bin\Debug\EntityFramework.dll
+C:\Users\shahrooz\Desktop\ww - Copy\EF_Session03_12\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shahrooz\Desktop\ww - Copy\EF_Session03_12\bin\Debug\Models.dll
+C:\Users\shahrooz\Desktop\ww - Copy\EF_Session03_12\bin\Debug\Models.pdb
+C:\Users\shahrooz\Desktop\ww - Copy\EF_Session03_12\bin\Debug\Models.dll.config
+C:\Users\shahrooz\Desktop\ww - Copy\EF_Session03_12\bin\Debug\EntityFramework.xml
+C:\Users\shahrooz\Desktop\ww - Copy\EF_Session03_12\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shahrooz\Desktop\ww - Copy\EF_Session03_12\obj\Debug\AssetTrackingEF.csprojAssemblyReference.cache
+C:\Users\shahrooz\Desktop\ww - Copy\EF_Session03_12\obj\Debug\Asset.frmMain.resources
+C:\Users\shahrooz\Desktop\ww - Copy\EF_Session03_12\obj\Debug\EF_Session03_12.Properties.Resources.resources
+C:\Users\shahrooz\Desktop\ww - Copy\EF_Session03_12\obj\Debug\AssetTrackingEF.csproj.GenerateResource.cache
+C:\Users\shahrooz\Desktop\ww - Copy\EF_Session03_12\obj\Debug\AssetTrackingEF.csproj.CoreCompileInputs.cache
+C:\Users\shahrooz\Desktop\ww - Copy\EF_Session03_12\obj\Debug\AssetTrackingEF.csproj.CopyComplete
+C:\Users\shahrooz\Desktop\ww - Copy\EF_Session03_12\obj\Debug\EF_Session03_12.exe
+C:\Users\shahrooz\Desktop\ww - Copy\EF_Session03_12\obj\Debug\EF_Session03_12.pdb
+C:\Users\shahrooz\Desktop\R1\EF_Session03_12\bin\Debug\EF_Session03_12.exe.config
+C:\Users\shahrooz\Desktop\R1\EF_Session03_12\bin\Debug\EF_Session03_12.exe
+C:\Users\shahrooz\Desktop\R1\EF_Session03_12\bin\Debug\EF_Session03_12.pdb
+C:\Users\shahrooz\Desktop\R1\EF_Session03_12\bin\Debug\EntityFramework.dll
+C:\Users\shahrooz\Desktop\R1\EF_Session03_12\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shahrooz\Desktop\R1\EF_Session03_12\bin\Debug\Models.dll
+C:\Users\shahrooz\Desktop\R1\EF_Session03_12\bin\Debug\Models.pdb
+C:\Users\shahrooz\Desktop\R1\EF_Session03_12\bin\Debug\Models.dll.config
+C:\Users\shahrooz\Desktop\R1\EF_Session03_12\bin\Debug\EntityFramework.xml
+C:\Users\shahrooz\Desktop\R1\EF_Session03_12\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shahrooz\Desktop\R1\EF_Session03_12\obj\Debug\AssetTrackingEF.csprojAssemblyReference.cache
+C:\Users\shahrooz\Desktop\R1\EF_Session03_12\obj\Debug\Asset.frmMain.resources
+C:\Users\shahrooz\Desktop\R1\EF_Session03_12\obj\Debug\EF_Session03_12.Properties.Resources.resources
+C:\Users\shahrooz\Desktop\R1\EF_Session03_12\obj\Debug\AssetTrackingEF.csproj.GenerateResource.cache
+C:\Users\shahrooz\Desktop\R1\EF_Session03_12\obj\Debug\AssetTrackingEF.csproj.CoreCompileInputs.cache
+C:\Users\shahrooz\Desktop\R1\EF_Session03_12\obj\Debug\AssetTrackingEF.csproj.CopyComplete
+C:\Users\shahrooz\Desktop\R1\EF_Session03_12\obj\Debug\EF_Session03_12.exe
+C:\Users\shahrooz\Desktop\R1\EF_Session03_12\obj\Debug\EF_Session03_12.pdb
+C:\Users\shahrooz\Desktop\New folder\R3\EF_Session03_12\bin\Debug\EF_Session03_12.exe.config
+C:\Users\shahrooz\Desktop\New folder\R3\EF_Session03_12\bin\Debug\EF_Session03_12.exe
+C:\Users\shahrooz\Desktop\New folder\R3\EF_Session03_12\bin\Debug\EF_Session03_12.pdb
+C:\Users\shahrooz\Desktop\New folder\R3\EF_Session03_12\bin\Debug\EntityFramework.dll
+C:\Users\shahrooz\Desktop\New folder\R3\EF_Session03_12\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shahrooz\Desktop\New folder\R3\EF_Session03_12\bin\Debug\Models.dll
+C:\Users\shahrooz\Desktop\New folder\R3\EF_Session03_12\bin\Debug\Models.pdb
+C:\Users\shahrooz\Desktop\New folder\R3\EF_Session03_12\bin\Debug\Models.dll.config
+C:\Users\shahrooz\Desktop\New folder\R3\EF_Session03_12\bin\Debug\EntityFramework.xml
+C:\Users\shahrooz\Desktop\New folder\R3\EF_Session03_12\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shahrooz\Desktop\New folder\R3\EF_Session03_12\obj\Debug\AssetTrackingEF.csprojAssemblyReference.cache
+C:\Users\shahrooz\Desktop\New folder\R3\EF_Session03_12\obj\Debug\Asset.frmMain.resources
+C:\Users\shahrooz\Desktop\New folder\R3\EF_Session03_12\obj\Debug\EF_Session03_12.Properties.Resources.resources
+C:\Users\shahrooz\Desktop\New folder\R3\EF_Session03_12\obj\Debug\AssetTrackingEF.csproj.GenerateResource.cache
+C:\Users\shahrooz\Desktop\New folder\R3\EF_Session03_12\obj\Debug\AssetTrackingEF.csproj.CoreCompileInputs.cache
+C:\Users\shahrooz\Desktop\New folder\R3\EF_Session03_12\obj\Debug\AssetTrackingEF.csproj.CopyComplete
+C:\Users\shahrooz\Desktop\New folder\R3\EF_Session03_12\obj\Debug\EF_Session03_12.exe
+C:\Users\shahrooz\Desktop\New folder\R3\EF_Session03_12\obj\Debug\EF_Session03_12.pdb
+C:\Users\shahrooz\Desktop\New folder\test\test 1\EF_Session03_12\bin\Debug\EF_Session03_12.exe.config
+C:\Users\shahrooz\Desktop\New folder\test\test 1\EF_Session03_12\bin\Debug\EF_Session03_12.exe
+C:\Users\shahrooz\Desktop\New folder\test\test 1\EF_Session03_12\bin\Debug\EF_Session03_12.pdb
+C:\Users\shahrooz\Desktop\New folder\test\test 1\EF_Session03_12\bin\Debug\EntityFramework.dll
+C:\Users\shahrooz\Desktop\New folder\test\test 1\EF_Session03_12\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shahrooz\Desktop\New folder\test\test 1\EF_Session03_12\bin\Debug\Models.dll
+C:\Users\shahrooz\Desktop\New folder\test\test 1\EF_Session03_12\bin\Debug\Models.pdb
+C:\Users\shahrooz\Desktop\New folder\test\test 1\EF_Session03_12\bin\Debug\Models.dll.config
+C:\Users\shahrooz\Desktop\New folder\test\test 1\EF_Session03_12\bin\Debug\EntityFramework.xml
+C:\Users\shahrooz\Desktop\New folder\test\test 1\EF_Session03_12\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shahrooz\Desktop\New folder\test\test 1\EF_Session03_12\obj\Debug\AssetTrackingEF.csprojAssemblyReference.cache
+C:\Users\shahrooz\Desktop\New folder\test\test 1\EF_Session03_12\obj\Debug\EF_Session03_12.Properties.Resources.resources
+C:\Users\shahrooz\Desktop\New folder\test\test 1\EF_Session03_12\obj\Debug\AssetTrackingEF.csproj.GenerateResource.cache
+C:\Users\shahrooz\Desktop\New folder\test\test 1\EF_Session03_12\obj\Debug\AssetTrackingEF.csproj.CoreCompileInputs.cache
+C:\Users\shahrooz\Desktop\New folder\test\test 1\EF_Session03_12\obj\Debug\AssetTrackingEF.csproj.CopyComplete
+C:\Users\shahrooz\Desktop\New folder\test\test 1\EF_Session03_12\obj\Debug\EF_Session03_12.exe
+C:\Users\shahrooz\Desktop\New folder\test\test 1\EF_Session03_12\obj\Debug\EF_Session03_12.pdb
+C:\Users\shahrooz\Desktop\New folder\test\test 1\EF_Session03_12\obj\Debug\Asset.Product.resources
+C:\Users\hp\Desktop\P7\EF_Session03_12\bin\Debug\EF_Session03_12.exe.config
+C:\Users\hp\Desktop\P7\EF_Session03_12\bin\Debug\EF_Session03_12.exe
+C:\Users\hp\Desktop\P7\EF_Session03_12\bin\Debug\EF_Session03_12.pdb
+C:\Users\hp\Desktop\P7\EF_Session03_12\bin\Debug\EntityFramework.dll
+C:\Users\hp\Desktop\P7\EF_Session03_12\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\Desktop\P7\EF_Session03_12\bin\Debug\Models.dll
+C:\Users\hp\Desktop\P7\EF_Session03_12\bin\Debug\Models.pdb
+C:\Users\hp\Desktop\P7\EF_Session03_12\bin\Debug\Models.dll.config
+C:\Users\hp\Desktop\P7\EF_Session03_12\bin\Debug\EntityFramework.xml
+C:\Users\hp\Desktop\P7\EF_Session03_12\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\Desktop\P7\EF_Session03_12\obj\Debug\AssetTrackingEF.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\P7\EF_Session03_12\obj\Debug\Asset.Product.resources
+C:\Users\hp\Desktop\P7\EF_Session03_12\obj\Debug\EF_Session03_12.Properties.Resources.resources
+C:\Users\hp\Desktop\P7\EF_Session03_12\obj\Debug\AssetTrackingEF.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\P7\EF_Session03_12\obj\Debug\AssetTrackingEF.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\P7\EF_Session03_12\obj\Debug\AssetTrackingEF.csproj.CopyComplete
+C:\Users\hp\Desktop\P7\EF_Session03_12\obj\Debug\EF_Session03_12.exe
+C:\Users\hp\Desktop\P7\EF_Session03_12\obj\Debug\EF_Session03_12.pdb
+C:\Users\shahrooz\Desktop\New folder\New folder\P7\EF_Session03_12\bin\Debug\EF_Session03_12.exe.config
+C:\Users\shahrooz\Desktop\New folder\New folder\P7\EF_Session03_12\bin\Debug\EF_Session03_12.exe
+C:\Users\shahrooz\Desktop\New folder\New folder\P7\EF_Session03_12\bin\Debug\EF_Session03_12.pdb
+C:\Users\shahrooz\Desktop\New folder\New folder\P7\EF_Session03_12\bin\Debug\EntityFramework.dll
+C:\Users\shahrooz\Desktop\New folder\New folder\P7\EF_Session03_12\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shahrooz\Desktop\New folder\New folder\P7\EF_Session03_12\bin\Debug\Models.dll
+C:\Users\shahrooz\Desktop\New folder\New folder\P7\EF_Session03_12\bin\Debug\Models.pdb
+C:\Users\shahrooz\Desktop\New folder\New folder\P7\EF_Session03_12\bin\Debug\Models.dll.config
+C:\Users\shahrooz\Desktop\New folder\New folder\P7\EF_Session03_12\bin\Debug\EntityFramework.xml
+C:\Users\shahrooz\Desktop\New folder\New folder\P7\EF_Session03_12\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shahrooz\Desktop\New folder\New folder\P7\EF_Session03_12\obj\Debug\AssetTrackingEF.csprojAssemblyReference.cache
+C:\Users\shahrooz\Desktop\New folder\New folder\P7\EF_Session03_12\obj\Debug\Asset.Product.resources
+C:\Users\shahrooz\Desktop\New folder\New folder\P7\EF_Session03_12\obj\Debug\EF_Session03_12.Properties.Resources.resources
+C:\Users\shahrooz\Desktop\New folder\New folder\P7\EF_Session03_12\obj\Debug\AssetTrackingEF.csproj.GenerateResource.cache
+C:\Users\shahrooz\Desktop\New folder\New folder\P7\EF_Session03_12\obj\Debug\AssetTrackingEF.csproj.CoreCompileInputs.cache
+C:\Users\shahrooz\Desktop\New folder\New folder\P7\EF_Session03_12\obj\Debug\AssetTrackingEF.csproj.CopyComplete
+C:\Users\shahrooz\Desktop\New folder\New folder\P7\EF_Session03_12\obj\Debug\EF_Session03_12.exe
+C:\Users\shahrooz\Desktop\New folder\New folder\P7\EF_Session03_12\obj\Debug\EF_Session03_12.pdb
+C:\Users\shahrooz\Desktop\New folder\New folder (2)\P9\EF_Session03_12\bin\Debug\EF_Session03_12.exe.config
+C:\Users\shahrooz\Desktop\New folder\New folder (2)\P9\EF_Session03_12\bin\Debug\EF_Session03_12.exe
+C:\Users\shahrooz\Desktop\New folder\New folder (2)\P9\EF_Session03_12\bin\Debug\EF_Session03_12.pdb
+C:\Users\shahrooz\Desktop\New folder\New folder (2)\P9\EF_Session03_12\bin\Debug\EntityFramework.dll
+C:\Users\shahrooz\Desktop\New folder\New folder (2)\P9\EF_Session03_12\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shahrooz\Desktop\New folder\New folder (2)\P9\EF_Session03_12\bin\Debug\Models.dll
+C:\Users\shahrooz\Desktop\New folder\New folder (2)\P9\EF_Session03_12\bin\Debug\Models.pdb
+C:\Users\shahrooz\Desktop\New folder\New folder (2)\P9\EF_Session03_12\bin\Debug\Models.dll.config
+C:\Users\shahrooz\Desktop\New folder\New folder (2)\P9\EF_Session03_12\bin\Debug\EntityFramework.xml
+C:\Users\shahrooz\Desktop\New folder\New folder (2)\P9\EF_Session03_12\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shahrooz\Desktop\New folder\New folder (2)\P9\EF_Session03_12\obj\Debug\AssetTrackingEF.csprojAssemblyReference.cache
+C:\Users\shahrooz\Desktop\New folder\New folder (2)\P9\EF_Session03_12\obj\Debug\Asset.Product.resources
+C:\Users\shahrooz\Desktop\New folder\New folder (2)\P9\EF_Session03_12\obj\Debug\EF_Session03_12.Properties.Resources.resources
+C:\Users\shahrooz\Desktop\New folder\New folder (2)\P9\EF_Session03_12\obj\Debug\AssetTrackingEF.csproj.GenerateResource.cache
+C:\Users\shahrooz\Desktop\New folder\New folder (2)\P9\EF_Session03_12\obj\Debug\AssetTrackingEF.csproj.CoreCompileInputs.cache
+C:\Users\shahrooz\Desktop\New folder\New folder (2)\P9\EF_Session03_12\obj\Debug\AssetTrackingEF.csproj.CopyComplete
+C:\Users\shahrooz\Desktop\New folder\New folder (2)\P9\EF_Session03_12\obj\Debug\EF_Session03_12.exe
+C:\Users\shahrooz\Desktop\New folder\New folder (2)\P9\EF_Session03_12\obj\Debug\EF_Session03_12.pdb
+C:\Users\hp\Desktop\New folder\EF_Session03_12\bin\Debug\EF_Session03_12.exe.config
+C:\Users\hp\Desktop\New folder\EF_Session03_12\bin\Debug\EF_Session03_12.exe
+C:\Users\hp\Desktop\New folder\EF_Session03_12\bin\Debug\EF_Session03_12.pdb
+C:\Users\hp\Desktop\New folder\EF_Session03_12\bin\Debug\EntityFramework.dll
+C:\Users\hp\Desktop\New folder\EF_Session03_12\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\Desktop\New folder\EF_Session03_12\bin\Debug\Models.dll
+C:\Users\hp\Desktop\New folder\EF_Session03_12\bin\Debug\Models.pdb
+C:\Users\hp\Desktop\New folder\EF_Session03_12\bin\Debug\Models.dll.config
+C:\Users\hp\Desktop\New folder\EF_Session03_12\bin\Debug\EntityFramework.xml
+C:\Users\hp\Desktop\New folder\EF_Session03_12\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\Desktop\New folder\EF_Session03_12\obj\Debug\AssetTrackingEF.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\New folder\EF_Session03_12\obj\Debug\Asset.Product.resources
+C:\Users\hp\Desktop\New folder\EF_Session03_12\obj\Debug\EF_Session03_12.Properties.Resources.resources
+C:\Users\hp\Desktop\New folder\EF_Session03_12\obj\Debug\AssetTrackingEF.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\New folder\EF_Session03_12\obj\Debug\AssetTrackingEF.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\New folder\EF_Session03_12\obj\Debug\AssetTrackingEF.csproj.CopyComplete
+C:\Users\hp\Desktop\New folder\EF_Session03_12\obj\Debug\EF_Session03_12.exe
+C:\Users\hp\Desktop\New folder\EF_Session03_12\obj\Debug\EF_Session03_12.pdb
